@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: remote
+  description: Remote system
+spec:
+  domain: demo
+  owner: group:default/backstage-admins
